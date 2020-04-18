@@ -1,1 +1,1 @@
-"# Selenium-Java-Patterns-Sample" 
+"# config.Selenium-Java-Patterns-Sample" 
